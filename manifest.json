@@ -1,0 +1,20 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/socket/socket.js",
+		"lodash_lib/bin/lodash_lib.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/Main.js",
+		"bin-debug/MyCardPannel.js",
+		"bin-debug/Poker.js",
+		"bin-debug/myPannels/Card.js",
+		"bin-debug/myPannels/CardShow.js",
+		"bin-debug/myPannels/OpArea.js"
+	]
+}
